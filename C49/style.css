@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(245, 107, 16);
+}
+
+h1{
+    color: rgb(226, 43, 43);
+}
+
+
+.header{
+    background-color: rgb(115, 255, 0);
+    display:flex;
+    justify-content:space-between;
+}
+
+.menu{
+background-color: rgb(162, 0, 255);
+
+}
+
+p,h2{
+    text-align: center;
+}
+
+.Games{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly ;
+    background-color: rgb(255, 0, 0);
+
+}
+
+.items{
+    background-color: rgb(0, 153, 255);
+    
+    
+}
+
+.Socials{
+
+    background-color: rgb(255, 0, 234);
+    display:flex;
+    justify-content:flex-end;
+}
